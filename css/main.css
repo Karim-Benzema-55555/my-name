@@ -1,0 +1,44 @@
+h1 {
+    color:lime;
+    background-color:midnightblue;
+    
+    text-align: center;
+    font-size:xx-small ;
+    /*font-name: Fuggles;*/
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ ol{
+    background-color: navy;
+ }
+
+ #navbar{
+    background-color:navy;
+    /*border-style: solid;*/
+    border-collapse: collapse;
+    font-size: mediums;
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+ }
+    
+ #navbar tr{
+    border-style: solid;
+    border-color: whitesmoke;}
+
+ .menu{
+    color:midnightblue
+ }
+ 
+ h2{
+    color: midnightblue;
+ }
+
+ h3{
+      background-color:navy;
+      border: 2px;
+      border-color: navy;
+ }
+
+.active {
+   background-color: whitesmoke;
+}
